@@ -8,7 +8,7 @@ import github from "../assets/SVG files/github.svg";
 import unity from "../assets/tools/unity.png";
 import blender from "../assets/SVG files/blender.svg";
 import figma from "../assets/SVG files/figma.svg";
-import android from "../assets/SVG files/android.svg";
+//import android from "../assets/SVG files/android.svg";
 
 
 const Experience = () => {
@@ -68,12 +68,12 @@ const Experience = () => {
             title: 'Figma',
             style: 'shadow-yellow-500'
         },
-        {
-            id: 10,
-            src: android,
-            title: 'Android Studio',
-            style: 'shadow-green-500'
-        }
+        // {
+        //     id: 10,
+        //     src: android,
+        //     title: 'Android Studio',
+        //     style: 'shadow-green-500'
+        // }
     ]
   return (
     <div name="experience" className="bg-gradient-to-b from-gray-800 to-black

@@ -32,7 +32,7 @@ const NavBar = () => {
     <div className="flex justify-between items-center w-full h-20 px-4 text-white bg-black fixed">
         {/* made it fixed so the navbar doesn't flow when we swipe */}
         <div>
-            <h1 className="text-5xl font-myName">Om</h1>
+            <h1 className="text-5xl font-myName">Mayank KP</h1>
         </div>
 
         <ul className="hidden md:flex">

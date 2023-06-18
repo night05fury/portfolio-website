@@ -24,7 +24,7 @@ const SocialLinks = () => {
          Github <span><FaGithub size={30}/></span>
          </div>
       ),
-      href: "https://github.com/OmMani002"
+      href: "https://github.com/night05fury"
     },
     {
       id: 3,
@@ -33,7 +33,7 @@ const SocialLinks = () => {
          Mail  <span><HiOutlineMail size={30}/></span>
          </div>
       ),
-      href: 'mailto:maniom002@gmail.com',
+      href: 'mailto:themayank05@gmail.com',
     },
     {
       id: 4,
@@ -41,11 +41,12 @@ const SocialLinks = () => {
         <div className='flex flex-row justify-between w-full items-center  pl-3 font-semibold'>
          Resume  <span> <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
   <path strokeLinecap="round" strokeLinejoin="round" d="M15.75 6a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0zM4.501 20.118a7.5 7.5 0 0114.998 0A17.933 17.933 0 0112 21.75c-2.676 0-5.216-.584-7.499-1.632z" />
+
 </svg>
 </span>
          </div>
       ),
-      href: "/resume.pdf",
+      href: "https://1drv.ms/f/s!AubilhoUw9mMw0mfaSaeynQl0S9O?e=Ep2JoH ",
       style: 'rounded-br-md',
       downlaod: true,
     }
